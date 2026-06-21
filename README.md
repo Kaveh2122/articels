@@ -21,3 +21,6 @@ Stablecorp brings QCAD to Arc, expanding StableFX into Canadian dollars
 Developer Brand Survey
 Goldsky 🤝 Arc Builders Fund: real-time data infrastructure for onchain finance
 Circle's Post-Quantum Security Roadmap: Securing blockchains, smart contracts, and digital assets for the quantum era
+Arc Discord Office Hours
+AI Engineer World's Fair
+Programmable Money on Arc Bootcamp
