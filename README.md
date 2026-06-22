@@ -41,3 +41,10 @@ Building an Autonomous Wallet Agent
 Welcome to the Arc Hub, A Community Introduction
 The Next Internet Economy, Built on Arc with USDC
 Arc’s Deterministic Finality
+How Arc Supports the Agentic Economy | Arc Blueprints
+Build Institutional Grade Prediction Markets on Arc | Arc Blueprints
+Stablecorp brings QCAD to Arc, expanding StableFX into Canadian dollars
+How Arc Supports Lending and Borrowing | Arc Blueprints
+Circle Developer Grants Program Relaunches
+Circle Agent Stack - Builder Feedback Survey
+ Introducing the ARC Whitepaper: Exploring Arc’s Native Coordination Asset
