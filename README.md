@@ -77,3 +77,5 @@ Architects: Program Overview
 Developer Brand Survey
 Architects: Program Overview
 Arc Engagement Amplification Guide
+Rio | Community Meetup | Region Kickoff Mixer
+Region Kickoff: Argentina Roundtable Discussion
